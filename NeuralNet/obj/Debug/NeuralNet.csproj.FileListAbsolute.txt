@@ -1,0 +1,12 @@
+c:\users\david\documents\visual studio 2012\Projects\NeuralNet\NeuralNet\bin\Debug\NeuralNet.exe.config
+c:\users\david\documents\visual studio 2012\Projects\NeuralNet\NeuralNet\bin\Debug\NeuralNet.exe
+c:\users\david\documents\visual studio 2012\Projects\NeuralNet\NeuralNet\bin\Debug\NeuralNet.pdb
+c:\users\david\documents\visual studio 2012\Projects\NeuralNet\NeuralNet\obj\Debug\NeuralNet.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2012\Projects\NeuralNet\NeuralNet\obj\Debug\NeuralNet.exe
+c:\users\david\documents\visual studio 2012\Projects\NeuralNet\NeuralNet\obj\Debug\NeuralNet.pdb
+C:\Users\David\Documents\Visual Studio 2012\Projects\NeuralNetV2\NeuralNet\bin\Debug\NeuralNet.exe.config
+C:\Users\David\Documents\Visual Studio 2012\Projects\NeuralNetV2\NeuralNet\obj\Debug\NeuralNet.exe
+C:\Users\David\Documents\Visual Studio 2012\Projects\NeuralNetV2\NeuralNet\obj\Debug\NeuralNet.pdb
+C:\Users\David\Documents\Visual Studio 2012\Projects\NeuralNetV2\NeuralNet\bin\Debug\NeuralNet.exe
+C:\Users\David\Documents\Visual Studio 2012\Projects\NeuralNetV2\NeuralNet\bin\Debug\NeuralNet.pdb
+C:\Users\David\Documents\Visual Studio 2012\Projects\NeuralNetV2\NeuralNet\obj\Debug\NeuralNet.csprojResolveAssemblyReference.cache
